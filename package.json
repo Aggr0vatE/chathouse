@@ -7,5 +7,9 @@
         "express": "latest",
         "jade": "latest"
     },
-    "author": "developer"
+    "author": "developer",
+    "engines": {
+    	"node": "0.10.33",
+    	"npm": "1.4.28"
+    }
 }
